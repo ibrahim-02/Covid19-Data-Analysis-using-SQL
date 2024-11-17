@@ -1,9 +1,3 @@
-To create a comprehensive README file for your project based on the uploaded SQL file, I will extract relevant details from the file. Let me first check the contents of the SQL file.
-
-Based on the extracted content from your SQL file, it appears that your project involves queries and analysis related to COVID-19 data. Here's a draft README for your GitHub repository:
-
----
-
 # COVID-19 Data Analysis Using SQL
 
 This project involves analyzing COVID-19 data using SQL queries to extract insights about cases, deaths, population impact, and more. The dataset used in the analysis comes from a database named `portfolioproject..CovidDeaths`. The queries cover various aspects of the data, such as calculating death percentages and identifying trends.
